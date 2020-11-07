@@ -236,6 +236,21 @@ body,
       &.icon-shard-count {
         background-image: url(assets/shard-count.svg);
       }
+      &.icon-harmony-logo {
+        background-image: url(assets/harmony-one-logo.svg);
+      }
+      &.icon-coin-price {
+        background-image: url(assets/coin-price.svg);
+      }
+      &.icon-market-cap {
+        background-image: url(assets/market-cap.svg);
+      }
+      &.icon-total-supply {
+        background-image: url(assets/total-supply.svg);
+      }
+      &.icon-block-latency {
+        background-image: url(assets/block-latency.svg);
+      }
     }
   }
 }
